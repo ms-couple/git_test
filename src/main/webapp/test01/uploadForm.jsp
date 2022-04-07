@@ -12,7 +12,7 @@
 		method="post"
 		enctype="multipart/form-data"
 		accept-charset="UTF-8">
-		
+
 		파일 1 : <input type="file" name="file1"><br>
 		파일 2 : <input type="file" name="file2"><br>
 		매개변수 : <input type="text" name="param1"><br>
